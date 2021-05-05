@@ -1,0 +1,5 @@
+{
+	"URI": "mongodb+srv://kalapyha:1111@devconnector.rynae.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"USER_NAME": "kalapyha",
+	"PASSWORD": "1111"
+}
